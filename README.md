@@ -20,7 +20,7 @@ A recommendation system for movies using collaborative filtering and content bas
 
 Classifying bankruptcy in Taiwanese companies based on their financial data.
 
-#### King County Real Estate | [Repository](https://github.com/erin-vu/phase_2_project_King_County_RE)
+#### King County Housing's Reigning Features | [Repository](https://github.com/erin-vu/phase_2_project_King_County_RE)
 
 Identifying key features in real estate data for what impacts real estate prices in King's County, Seattle.
 
