@@ -2,7 +2,7 @@
 
 __________________
 
-I am a Data analyst and data scientist looking for a new opportunity with experience in statistical analysis, machine learning and deep learning (scikit-learn, Pandas, NumPy). Skilled in synthesizing complex data to enable sound business decisions. Background in project management and business operations. Strong skills in understanding how to work with stakeholders in addition to a passion and curiosity for deriving insights and solutions through data.
+I am a data analyst and data scientist looking for a new opportunity with experience in statistical analysis, machine learning and deep learning (scikit-learn, Pandas, NumPy). Skilled in synthesizing complex data to enable sound business decisions. Background in project management and business operations. Strong skills in understanding how to work with stakeholders in addition to a passion and curiosity for deriving insights and solutions through data.
 
 ### Projects
 
